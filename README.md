@@ -15,6 +15,7 @@ Just like [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-
 		- [Probability](https://learning.edx.org/course/course-v1:MITx+6.431x+1T2022/home) - The Science of Uncertainty and Data in edX
 		- [Fundamentals of Statistics](https://learning.edx.org/course/course-v1:MITx+18.6501x+1T2022/home) in edX
 		- [Statistical learning theory and applications](https://cbmm.mit.edu/9-520) in CBMM
+		- [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models) by Daphne Koller in Coursera
 	- Information Theory
 		- [Introduction to information theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory) in Complexity Explore by Sante Fe Institute
 	- Nonlinear Dynamics
@@ -35,8 +36,11 @@ Just like [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-
 		  
 	- Data Science
 		- [Principles and Techniques of Data Science](https://ds100.org/fa21/)
+	- [CS231n](http://cs231n.stanford.edu/): Deep Learning for Computer Vision by Li Feifei in Stanford, [youtube link](https://www.youtube.com/playlist?list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq)
+	- [CS224n](https://web.stanford.edu/class/cs224n/): Natural Language Processing with Deep Learning by Chris Manning in Stanford, [youtube link](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
 - Neuroscience：
 	- Computational Neuroscience
+		- [Brains, Minds and Machines](https://cbmm.mit.edu/summer-school) by CBMM, [youtube link](https://www.youtube.com/c/MITCBMM/playlists?view=1&sort=dd&shelf_id=0)
 		- [Computation Neuroscience](https://www.coursera.org/learn/computational-neuroscience/home/week/1) in Coursera by Rajesh Rao
 		- [Cajal courses in computational neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience) in INCF
 		- [9.40](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) Introduction to neural computation 
